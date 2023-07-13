@@ -1,0 +1,22 @@
+.header {
+    background-color: var(--cor-header);
+    display: flex;
+    height: 8vw;
+}
+
+.container{
+    display: flex;
+}
+
+.container__logo{
+    margin: 1em 0;
+}
+
+.container__logo-nfl{
+    border-left: 1px solid var(--cinza);
+    padding-left: 1em;
+}
+
+.container__logo-nba{
+    padding-right: 1em;
+}
