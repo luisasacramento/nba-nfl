@@ -1,2 +1,3 @@
 # nba-nfl
-Web Site feito para estudar e praticar
+Web Site dos times da NBA e da NFL
+Feito para fins de estudo e prática
