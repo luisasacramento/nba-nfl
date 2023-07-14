@@ -20,3 +20,14 @@
 .container__logo-nba{
     padding-right: 1em;
 }
+
+/* Links do menu */
+
+.lista-menu{
+    display: flex;
+}
+
+.opcoes__item{
+    font-weight: 700;
+    color: var(--cinza);
+}
