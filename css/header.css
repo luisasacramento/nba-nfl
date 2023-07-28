@@ -47,15 +47,41 @@
 .dropdown:hover .dropdown-content{
     display: block;
 }
-  .lista-menu__dropdown{
+  
+.lista-menu__dropdown{
      display: flex;
      background-color: var(--branco);
-     width: 50vw;
+     width: 60vw;
      padding: 2em 1em;
  } 
 
  .lista-menu__link {
      text-decoration: none;
      color: black;
-     padding: 2em; 
+     padding: 0em 1em;  
+
+ }
+ .lista-menu__link:hover{
+    color: var(--vermelho-hover);
+ }
+
+.lista-menu__item{
+    display: flex;
+    align-items: center; 
+    margin: 0.6em 0;
+    /* padding:0.5em;   */
+    flex-wrap: nowrap;
+    padding-left: 0;
+ } 
+
+ .logo__item{
+    height: 1.5vw;
+    padding-right: 0em;
+ }
+
+ .lista_southeast,
+ .lista_central,
+ .lista_atlantic{
+    margin: auto 2em;
+
  }
