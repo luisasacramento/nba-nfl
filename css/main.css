@@ -1,0 +1,10 @@
+/* .main_img{
+    width: 50vw;
+    height: 100vh;
+    margin: 1em 0;
+
+} */
+
+.container_main{
+    display: flex;
+}
